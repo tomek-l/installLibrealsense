@@ -1,3 +1,7 @@
+# Use this
+
+https://lieuzhenghong.com/how_to_install_librealsense_on_the_jetson_nx/
+
 # installLibrealsense
 Build and install scripts for Intel's librealsense for the NVIDIA Jetson Nano Developer Kit
 
